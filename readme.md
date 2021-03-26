@@ -7,7 +7,7 @@
 
 <hr>
 
-[Aula 1](https://github.com/thanakin/imersao-dev/Aula1/): Conversor de Moedas e Variáveis no Javascript
+[Aula 1](https://github.com/thanakin/imersao-dev/tree/master/Aula1): Conversor de Moedas e Variáveis no Javascript
 
 [Aula 2]: Calculadora e laçoes condicionais no JavaScript
 
