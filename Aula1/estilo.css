@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+    background-color: #404040;
+    color: white;
+    font-family: 'Roboto Mono',monospace;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+#minhaDiv {
+    width: 800;
+    height: 450px;
+    background-image: url('./4-estacoes-do-ano-no-brasil-menor.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+
+a {
+    color: turquoise;
+}
+/*
+#222222
+#2a2a2a
+#404040
+#383838
+*/
