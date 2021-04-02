@@ -20,10 +20,11 @@
 
 [Aula 4](https://codepen.io/imersao-dev/pen/XWpWrYm): AluraFlix [![!](https://img.icons8.com/ios-glyphs/30/000000/google-code.png )](https://github.com/thanakin/imersao-dev/tree/master/Aula4 "Ver no Github") &nbsp;
 [![!](https://img.icons8.com/metro/30/000000/visible.png)](http://www.thanakin.kinghost.net/portifolio/imersao-dev/Aula4/ "Testar")
-<!--
 
-[Aula 4]: 
-[Aula 5]():
+[Aula 5](https://codepen.io/imersao-dev/pen/XWpWrod): AluraFlix - Parte 2 [![!](https://img.icons8.com/ios-glyphs/30/000000/google-code.png )](https://github.com/thanakin/imersao-dev/tree/master/Aula5 "Ver no Github") &nbsp;
+[![!](https://img.icons8.com/metro/30/000000/visible.png)](http://www.thanakin.kinghost.net/portifolio/imersao-dev/Aula5/ "Testar")
+
+<!--
 [Aula 6]():
 [Aula 7]():
 [Aula 8]():
