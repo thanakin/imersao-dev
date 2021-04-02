@@ -18,7 +18,17 @@
 [Aula 3](https://codepen.io/imersao-dev/pen/c9bc2321ec180ad7483501ad8a1e7d3d): Mentalista e números aleatórios [![!](https://img.icons8.com/ios-glyphs/30/000000/google-code.png )](https://github.com/thanakin/imersao-dev/tree/master/Aula3 "Ver no Github") &nbsp;
 [![!](https://img.icons8.com/metro/30/000000/visible.png)](http://www.thanakin.kinghost.net/portifolio/imersao-dev/Aula3/ "Testar")
 
+<hr>
+
+<a href="https://codepen.io/imersao-dev/pen/c9bc2321ec180ad7483501ad8a1e7d3d" target="_blank" title="Código original">Aula 3</a>: Mentalista e números aleatórios
+<a href="https://github.com/thanakin/imersao-dev/tree/master/Aula3" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/google-code.png" title="Ver no Github"></a>
+<a href="http://www.thanakin.kinghost.net/portifolio/imersao-dev/Aula3/" target="_blank"><img src="https://img.icons8.com/metro/30/000000/visible.png" title="Testar"></a>
+
 <!--
+<a href="" target="_blank" title="Código original"> </a>: 
+<a href="" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/google-code.png" title="Ver no Github"></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/metro/30/000000/visible.png" title="Testar"></a>
+
 [Aula 4]: AluraFlix
 [Aula 5]():
 [Aula 6]():
