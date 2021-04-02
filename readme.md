@@ -20,6 +20,8 @@
 
 <hr>
 
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 <a href="https://codepen.io/imersao-dev/pen/c9bc2321ec180ad7483501ad8a1e7d3d" target="_blank" title="Código original">Aula 3</a>: Mentalista e números aleatórios
 <a href="https://github.com/thanakin/imersao-dev/tree/master/Aula3" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/google-code.png" title="Ver no Github"></a>
 <a href="http://www.thanakin.kinghost.net/portifolio/imersao-dev/Aula3/" target="_blank"><img src="https://img.icons8.com/metro/30/000000/visible.png" title="Testar"></a>
