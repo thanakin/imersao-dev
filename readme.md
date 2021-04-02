@@ -15,7 +15,8 @@
 [![!](https://img.icons8.com/ios-glyphs/30/000000/google-code.png )](https://github.com/thanakin/imersao-dev/tree/master/Aula2 "Ver no Github") &nbsp;
 [![!](https://img.icons8.com/metro/30/000000/visible.png)](http://www.thanakin.kinghost.net/portifolio/imersao-dev/Aula2/ "Testar")
 
-Aula 3: Mentalista e números aleatórios
+[Aula 3](https://codepen.io/imersao-dev/pen/c9bc2321ec180ad7483501ad8a1e7d3d): Mentalista e números aleatórios [![!](https://img.icons8.com/ios-glyphs/30/000000/google-code.png )](https://github.com/thanakin/imersao-dev/tree/master/Aula3 "Ver no Github") &nbsp;
+[![!](https://img.icons8.com/metro/30/000000/visible.png)](http://www.thanakin.kinghost.net/portifolio/imersao-dev/Aula3/ "Testar")
 
 <!--
 [Aula 4]: AluraFlix
