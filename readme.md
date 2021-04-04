@@ -24,6 +24,9 @@
 [Aula 5](https://codepen.io/imersao-dev/pen/XWpWrod): AluraFlix - Parte 2 [![!](https://img.icons8.com/ios-glyphs/30/000000/google-code.png )](https://github.com/thanakin/imersao-dev/tree/master/Aula5 "Ver no Github") &nbsp;
 [![!](https://img.icons8.com/metro/30/000000/visible.png)](http://www.thanakin.kinghost.net/portfolio/imersao-dev/Aula5/ "Testar")
 
+[Aula 6](https://codepen.io/imersao-dev/pen/yLgLLNY): Tabela de classificação e objetos no javascript [![!](https://img.icons8.com/ios-glyphs/30/000000/google-code.png )](https://github.com/thanakin/imersao-dev/tree/master/Aula6 "Ver no Github") &nbsp;
+[![!](https://img.icons8.com/metro/30/000000/visible.png)](http://www.thanakin.kinghost.net/portfolio/imersao-dev/Aula6/ "Testar")
+
 <!--
 [Aula 6]():
 [Aula 7]():
