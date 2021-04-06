@@ -27,11 +27,10 @@
 [Aula 6](https://codepen.io/imersao-dev/pen/yLgLLNY): Tabela de classificação e objetos no javascript [![!](https://img.icons8.com/ios-glyphs/30/000000/google-code.png )](https://github.com/thanakin/imersao-dev/tree/master/Aula6 "Ver no Github") &nbsp;
 [![!](https://img.icons8.com/metro/30/000000/visible.png)](http://www.thanakin.kinghost.net/portfolio/imersao-dev/Aula6/ "Testar")
 
-[Aula 6](https://codepen.io/imersao-dev/pen/WNRNNOb): Trunfo e lógica do jogo [![!](https://img.icons8.com/ios-glyphs/30/000000/google-code.png )](https://github.com/thanakin/imersao-dev/tree/master/Aula7 "Ver no Github") &nbsp;
+[Aula 7](https://codepen.io/imersao-dev/pen/WNRNNOb): Trunfo e lógica do jogo [![!](https://img.icons8.com/ios-glyphs/30/000000/google-code.png )](https://github.com/thanakin/imersao-dev/tree/master/Aula7 "Ver no Github") &nbsp;
 [![!](https://img.icons8.com/metro/30/000000/visible.png)](http://www.thanakin.kinghost.net/portfolio/imersao-dev/Aula7/ "Testar")
 
 <!--
-[Aula 7]():
 [Aula 8]():
 [Aula 9]():
 [Aula 10]():
