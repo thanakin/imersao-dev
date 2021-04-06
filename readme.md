@@ -30,8 +30,9 @@
 [Aula 7](https://codepen.io/imersao-dev/pen/WNRNNOb): Trunfo e lógica do jogo [![!](https://img.icons8.com/ios-glyphs/30/000000/google-code.png )](https://github.com/thanakin/imersao-dev/tree/master/Aula7 "Ver no Github") &nbsp;
 [![!](https://img.icons8.com/metro/30/000000/visible.png)](http://www.thanakin.kinghost.net/portfolio/imersao-dev/Aula7/ "Testar")
 
+[Aula 8](https://codepen.io/imersao-dev/pen/JjEjjZv): Trunfo, Imagens, Manipulação do html e css [![!](https://img.icons8.com/ios-glyphs/30/000000/google-code.png )](https://github.com/thanakin/imersao-dev/tree/master/Aula8 "Ver no Github") &nbsp;
+[![!](https://img.icons8.com/metro/30/000000/visible.png)](http://www.thanakin.kinghost.net/portfolio/imersao-dev/Aula8/ "Testar")
 <!--
-[Aula 8]():
 [Aula 9]():
 [Aula 10]():
 
