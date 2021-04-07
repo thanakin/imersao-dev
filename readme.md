@@ -36,4 +36,5 @@
 [Aula 9](https://codepen.io/imersao-dev/pen/eYgYYxG): Trunfo e lógica de rodadas com javascript [![!](https://img.icons8.com/ios-glyphs/30/000000/google-code.png )](https://github.com/thanakin/imersao-dev/tree/master/Aula9 "Ver no Github") &nbsp;
 [![!](https://img.icons8.com/metro/30/000000/visible.png)](http://www.thanakin.kinghost.net/portfolio/imersao-dev/Aula9/ "Testar")
 
-[Aula 10] Certificard: 
+Aula 10 Certificard: [![!](https://img.icons8.com/ios-glyphs/30/000000/google-code.png )](https://github.com/thanakin/imersao-dev/tree/master/Aula10 "Ver no Github") &nbsp;
+[![!](https://img.icons8.com/metro/30/000000/visible.png)](http://www.thanakin.kinghost.net/portfolio/imersao-dev/Aula10/ "Testar")
